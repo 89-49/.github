@@ -200,7 +200,7 @@ sequenceDiagram
 
 ### 이벤트 흐름도
 
-<img width="1111" height="920" alt="image" src="https://github.com/user-attachments/assets/4655eac2-b4aa-4450-9286-bd9fdc714330" />
+<img width="1024" height="860" alt="image" src="https://github.com/user-attachments/assets/4655eac2-b4aa-4450-9286-bd9fdc714330" />
 
 ---
 
