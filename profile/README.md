@@ -207,7 +207,7 @@ sequenceDiagram
 | `prod-reservation-tradefail` | reservation-service | product-group |
 | `prod-reservation-buyercancelled` | reservation-service | product-service |
 | `prod-product-created` | product-service | reservation-service |
-| `prod-product-failed` | reservation-service | product-service |
+| `prod-product-failed` </br> (`prod-reservation-failed`) | reservation-service | product-service |
 | `prod-trade-created` | trade-service | chat-service |
 | `prod-trade-completed` | trade-service | product-group, chat-service |
 | `prod-trade-cancelled` | trade-service | chat-service |
