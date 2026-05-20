@@ -178,6 +178,8 @@ flowchart LR
 
 ## 이벤트 흐름
 
+### 시퀀스 다이어그램
+
 ```mermaid
 sequenceDiagram
   participant Reservation as Reservation Service
@@ -195,6 +197,10 @@ sequenceDiagram
   Kafka->>Product: product status COMPLETED
   Kafka->>Chat: chat room/message flow update
 ```
+
+### 이벤트 흐름도
+
+<img width="1111" height="920" alt="image" src="https://github.com/user-attachments/assets/4655eac2-b4aa-4450-9286-bd9fdc714330" />
 
 ---
 
