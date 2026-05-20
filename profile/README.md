@@ -63,7 +63,7 @@
 
 ## ERD
 
-<img width="1024" height="768" alt="팔구사구" src="https://github.com/user-attachments/assets/8f142057-6ae4-425b-a502-5e45fb831125" />
+<img width="924" height="728" alt="팔구사구" src="https://github.com/user-attachments/assets/aaa1d132-3d43-4aa4-bc86-84f13dca8700" />
 
 ## 시스템 구성 및 아키텍처
 
